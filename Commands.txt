@@ -1,0 +1,21 @@
+open youtube
+
+open gmail
+
+open monkey
+
+open classroom
+
+sleep
+
+open notepad
+
+open command prompt
+
+close notepad
+
+how are you
+
+who are you
+
+what can you do
